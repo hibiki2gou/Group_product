@@ -24,7 +24,7 @@
 ### バックエンド
 * **Python 3.x**
 * **Flask**: Web フレームワーク
-* **Flask-SQLAlchemy**: データベース ORM (SQLite 使用)
+* **SQLite / Flask-SQLAlchemy**: データベース管理（`data.sqlite`）
 * **Flask-Migrate**: データベースマイグレーション管理
 * **Flask-WTF**: フォームバリデーション
 
